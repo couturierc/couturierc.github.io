@@ -32,33 +32,33 @@ My research focuses on making AI systems more efficient: every token processed a
 
 - **LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation**  
   D. Han, **C. Couturier**, D. Madrigal, X. Zhang, V. Rühle, S. Rajmohan  
-  *arXiv:2510.04851* — [PDF](https://arxiv.org/abs/2510.04851)
+  *arXiv:2510.04851* — [PDF](https://arxiv.org/pdf/2510.04851)
 
 - **Semantic Caching of Contextual Summaries for Efficient Question-Answering with Language Models**  
   **C. Couturier**, S. Mastorakis, H. Shen, S. Rajmohan, V. Rühle  
-  *arXiv:2505.11271* — [PDF](https://arxiv.org/abs/2505.11271)
+  *arXiv:2505.11271* — [PDF](https://arxiv.org/pdf/2505.11271)
 
 - **Exploring How LLMs Capture and Represent Domain-Specific Knowledge**  
   M. Hipolito Garcia, **C. Couturier**, D. Madrigal, A. Mallick, A. Kyrillidis, R. Sim, V. Rühle, S. Rajmohan  
-  *arXiv:2504.16871* — [PDF](https://arxiv.org/abs/2504.16871)
+  *arXiv:2504.16871* — [PDF](https://arxiv.org/pdf/2504.16871)
 
 ### 2024
 
 - **Hybrid-RACA: Hybrid Retrieval-Augmented Composition Assistance for Real-time Text Prediction**  
   M. Xia, X. Zhang, **C. Couturier**, G. Zheng, S. Rajmohan, V. Rühle  
-  *EMNLP 2024 Industry Track* — [PDF](https://arxiv.org/abs/2308.04215)
+  *EMNLP 2024 Industry Track* — [PDF](https://arxiv.org/pdf/2308.04215)
 
 ### 2023
 
 - **Snape: Reliable and Low-Cost Computing with Mixture of Spot and On-Demand VMs**  
   F. Yang, L. Wang, Z. Xu, J. Zhang, L. Li, B. Qiao, **C. Couturier**, et al.  
-  *ASPLOS 2023* — [Paper](https://dl.acm.org/doi/10.1145/3575693.3575732)
+  *ASPLOS 2023* — [PDF](https://dl.acm.org/doi/pdf/10.1145/3582016.3582028)
 
 ### 2022
 
 - **Spot Virtual Machine Eviction Prediction in Microsoft Cloud**  
   F. Yang, B. Pang, J. Zhang, B. Qiao, L. Wang, **C. Couturier**, et al.  
-  *WWW 2022 Companion* — [Paper](https://dl.acm.org/doi/10.1145/3487553.3524860)
+  *WWW 2022* — [PDF](https://dl.acm.org/doi/pdf/10.1145/3487553.3524229)
 
 > For earlier publications in particle physics and cosmology (H.E.S.S. Collaboration, MIMAC), see my [Google Scholar](https://scholar.google.com/citations?user=t9sCvOMAAAAJ) profile.
 
